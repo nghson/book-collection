@@ -79107,7 +79107,7 @@ m=t.z
 m=A.wN(A.b([A.nM(m)],t.vj),m)
 i=t.fo
 s=t.E
-return A.Kl(o,A.hE(A.dg(new A.cm(new A.aB(16,16,16,16),A.nl(A.b([A.ar6(A.nl(A.b([j,h,k,A.ar7(B.mu,l,A.a2(new A.a8(A.b(["Reading","Finished","To be read"],t.s),new A.Y2(),i),!0,i.h("as.E")),"status",m,t.K),A.Kg(A.b([A.wo(B.QO,new A.Y3(r,a)),A.wo(B.QM,new A.Y4(r,a))],s),B.as,B.aI,B.bs)],s),B.as,B.aI,B.bs),r.c)],s),B.as,B.aI,B.bs),q),q,n),q,q))}}
+return A.Kl(o,A.hE(A.dg(new A.cm(new A.aB(24,24,24,24),A.nl(A.b([A.ar6(A.nl(A.b([j,h,k,A.ar7(B.mu,l,A.a2(new A.a8(A.b(["Reading","Finished","To be read"],t.s),new A.Y2(),i),!0,i.h("as.E")),"status",m,t.K),A.Kg(A.b([A.wo(B.QO,new A.Y3(r,a)),A.wo(B.QM,new A.Y4(r,a))],s),B.as,B.aI,B.bs)],s),B.as,B.aI,B.bs),r.c)],s),B.as,B.aI,B.bs),q),q,n),q,q))}}
 A.Y1.prototype={
 $0(){return A.jL($.be(),"/view",t.z)},
 $S:0}
@@ -79200,7 +79200,7 @@ s=t.z
 s=A.wN(A.b([A.nM(s)],t.vj),s)
 r=t.fo
 q=t.E
-return A.Kl(n,A.hE(A.dg(new A.cm(new A.aB(16,16,16,16),A.ar6(A.nl(A.b([k,i,j,A.ar7(B.mu,p,A.a2(new A.a8(A.b(["Reading","Finished","To be read"],t.s),new A.a_z(),r),!0,r.h("as.E")),"status",s,l),A.Kg(A.b([A.wo(B.QK,new A.a_A(this,a))],q),B.as,B.aI,B.bs)],q),B.as,B.aI,B.bs),this.c),p),p,m),p,p))}}
+return A.Kl(n,A.hE(A.dg(new A.cm(new A.aB(24,24,24,24),A.ar6(A.nl(A.b([k,i,j,A.ar7(B.mu,p,A.a2(new A.a8(A.b(["Reading","Finished","To be read"],t.s),new A.a_z(),r),!0,r.h("as.E")),"status",s,l),A.Kg(A.b([A.wo(B.QK,new A.a_A(this,a))],q),B.as,B.aI,B.bs)],q),B.as,B.aI,B.bs),this.c),p),p,m),p,p))}}
 A.a_y.prototype={
 $0(){return A.jL($.be(),"/",t.z)},
 $S:0}
@@ -79258,7 +79258,7 @@ this.b.af(t.Pu).f.zW(k)}return j},
 $S:0}
 A.qU.prototype={
 N(a){var s=null,r=A.bq(a,s,t.w).w.a.a,q=A.Fz(!1,s,B.QN),p=r>768?768:r
-return A.Kl(q,A.hE(A.dg(new A.cm(new A.aB(16,16,16,16),A.nl(A.b([A.d_("Save your favorite books and track your reading progress",s,s,s,s,s,s),A.dg(s,8,s),A.wo(B.y7,new A.a1e()),A.dg(s,8,s),A.wo(B.QP,new A.a1f()),A.dg(s,8,s),A.wo(B.QR,new A.a1g())],t.E),B.as,B.aI,B.bs),s),s,p),s,s))}}
+return A.Kl(q,A.hE(A.dg(new A.cm(new A.aB(24,24,24,24),A.nl(A.b([A.d_("Save your favorite books and track your reading progress",s,s,s,s,s,s),A.dg(s,8,s),A.wo(B.y7,new A.a1e()),A.dg(s,8,s),A.wo(B.QP,new A.a1f()),A.dg(s,8,s),A.wo(B.QR,new A.a1g())],t.E),B.as,B.aI,B.bs),s),s,p),s,s))}}
 A.a1e.prototype={
 $0(){return A.jL($.be(),"/form",t.z)},
 $S:0}
@@ -79270,7 +79270,7 @@ $0(){return A.jL($.be(),"/stats",t.z)},
 $S:0}
 A.t7.prototype={
 N(a){var s=null,r=A.bq(a,s,t.w).w.a.a,q=A.Fz(!0,A.x2(s,s,B.fK,s,s,new A.ab6(),s,s,s),B.QL),p=r>768?768:r,o=this.c
-return A.Kl(q,A.hE(A.dg(new A.cm(new A.aB(16,16,16,16),A.nl(A.b([A.d_("Total books: "+J.ci(o.b.gq()),s,s,s,s,s,s),A.d_("Reading: "+o.zE("Reading"),s,s,s,s,s,s),A.d_("To be read: "+o.zE("To be read"),s,s,s,s,s,s),A.d_("Finished: "+o.zE("Finished"),s,s,s,s,s,s),new A.rk(new A.ab7(this),s)],t.E),B.as,B.aI,B.bs),s),s,p),s,s))}}
+return A.Kl(q,A.hE(A.dg(new A.cm(new A.aB(24,24,24,24),A.nl(A.b([A.d_("Total books: "+J.ci(o.b.gq()),s,s,s,s,s,s),A.d_("Reading: "+o.zE("Reading"),s,s,s,s,s,s),A.d_("To be read: "+o.zE("To be read"),s,s,s,s,s,s),A.d_("Finished: "+o.zE("Finished"),s,s,s,s,s,s),new A.rk(new A.ab7(this),s)],t.E),B.as,B.aI,B.bs),s),s,p),s,s))}}
 A.ab6.prototype={
 $0(){return A.jL($.be(),"/",t.z)},
 $S:0}
@@ -79286,7 +79286,7 @@ else if(o<768)p.a=3
 else p.a=4
 s=A.Fz(!0,A.x2(q,q,B.fK,q,q,new A.VO(),q,q,q),B.QJ)
 r=o>1024?1024:o
-return A.Kl(s,A.hE(A.dg(new A.cm(new A.aB(16,16,16,16),new A.rk(new A.VP(p,this),q),q),q,r),q,q))}}
+return A.Kl(s,A.hE(A.dg(new A.cm(new A.aB(24,24,24,24),new A.rk(new A.VP(p,this),q),q),q,r),q,q))}}
 A.VO.prototype={
 $0(){return A.jL($.be(),"/",t.z)},
 $S:0}
